@@ -121,8 +121,6 @@ Le code complet est contenu dans le notebook :
 | Accuracy | 0.87 |
 | F1-Score (Weighted) | 0.87 |
 
-> Voir la matrice de confusion dans le notebook pour la répartition des classes.
-
 ---
 
 ## 🔗 Lien vers la Compétition
