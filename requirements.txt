@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+lxml
+nltk
+scikit-learn
+transformers
+datasets
+torch
+tqdm
+pymupdf
+seqeval
